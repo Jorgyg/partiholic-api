@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace partyholic.Controllers
+namespace partyholic_api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
